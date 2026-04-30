@@ -1,0 +1,10 @@
+{
+  "H52":  { "version": "2.0.3", "url": "https://raw.githubusercontent.com/.../H52.bin" },
+  "H32":  { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../H32.bin" },
+  "H26":  { "version": "2.0.3", "url": "https://raw.githubusercontent.com/.../H26.bin" },
+  "DOSE": { "version": "2.2.3", "url": "https://raw.githubusercontent.com/.../Dose.bin" },
+  "X60":  { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../X60.bin" },
+  "X30":  { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../X30.bin" },
+  "X2":   { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../X2.bin" },
+  "L7":   { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../L7.bin" }
+}
