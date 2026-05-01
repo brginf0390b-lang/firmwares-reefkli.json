@@ -1,10 +1,34 @@
 {
-  "H52":  { "version": "2.0.3", "url": "https://raw.githubusercontent.com/.../H52.bin" },
-  "H32":  { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../H32.bin" },
-  "H26":  { "version": "2.0.3", "url": "https://raw.githubusercontent.com/.../H26.bin" },
-  "DOSE": { "version": "2.2.3", "url": "https://raw.githubusercontent.com/.../Dose.bin" },
-  "X60":  { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../X60.bin" },
-  "X30":  { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../X30.bin" },
-  "X2":   { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../X2.bin" },
-  "L7":   { "version": "1.0.0", "url": "https://raw.githubusercontent.com/.../L7.bin" }
+  "H52": {
+    "version": "2.0.3",
+    "url": "https://raw.githubusercontent.com/brginf0390b-lang/firmwares-reefkli.json/main/H52.bin"
+  },
+  "H32": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/brginf0390b-lang/firmwares-reefkli.json/main/H32.bin"
+  },
+  "H26": {
+    "version": "2.0.3",
+    "url": "https://raw.githubusercontent.com/brginf0390b-lang/firmwares-reefkli.json/main/H26.bin"
+  },
+  "DOSE": {
+    "version": "2.2.3",
+    "url": "https://raw.githubusercontent.com/brginf0390b-lang/firmwares-reefkli.json/main/Dose.bin"
+  },
+  "X60": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/brginf0390b-lang/firmwares-reefkli.json/main/X60.bin"
+  },
+  "X30": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/brginf0390b-lang/firmwares-reefkli.json/main/X30.bin"
+  },
+  "X2": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/brginf0390b-lang/firmwares-reefkli.json/main/X2.bin"
+  },
+  "L7": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/brginf0390b-lang/firmwares-reefkli.json/main/L7.bin"
+  }
 }
